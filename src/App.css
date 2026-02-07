@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "ClashDisplay";
+  src: url("/ClashDisplay.otf") format("opentype");
+  font-style: normal;
+}
+
+@theme{
+  --font-display: "ClashDisplay", sans-serif; 
+}
