@@ -2,7 +2,7 @@ import { AnimatedSpan, Terminal, TypingAnimation } from "./ui/terminal";
 
 export const TerminalSection = () => {
   return (
-    <div className="pt-9 w-full px-4 md:px-6 lg:px-8">
+    <div className="pt-9 w-full px-2 md:px-6 lg:px-8">
       <Terminal className="w-full max-w-full sm:max-w-md md:max-w-lg lg:max-w-lg mx-auto">
         <TypingAnimation className="text-xs sm:text-sm wrap-break-words">
           &gt; whoami
