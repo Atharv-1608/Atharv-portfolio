@@ -1,3 +1,5 @@
+// import { Skills } from "./Skills";
+import { Links } from "./Links";
 import { TerminalSection } from "./TerminalSection";
 
 export const Landing = () => {
@@ -20,6 +22,7 @@ export const Landing = () => {
         </div>
 
         <TerminalSection />
+        <Links />
       </div>
     </div>
   );
