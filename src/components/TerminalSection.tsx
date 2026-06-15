@@ -11,7 +11,7 @@ export const TerminalSection = () => {
           ✔ Developer based in Mumbai, India.
         </AnimatedSpan>
         <AnimatedSpan className="text-green-500 text-xs sm:text-sm wrap-break-words">
-          ✔ Building at the intersection of Web2 and Web3.
+          ✔ Building at the intersection of Web2 & Web3.
         </AnimatedSpan>
         <AnimatedSpan className="text-green-500 text-xs sm:text-sm wrap-break-words">
           ✔ Writes code that sometimes works first try.
